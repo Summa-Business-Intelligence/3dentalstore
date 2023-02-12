@@ -1,7 +1,7 @@
 import defaultImage from './assets/images/default.png';
 
 const CONFIG = {
-  name: 'AstroWind',
+  name: '3DentalStore',
 
   origin: 'https://astrowind.vercel.app',
   basePathname: '/',
